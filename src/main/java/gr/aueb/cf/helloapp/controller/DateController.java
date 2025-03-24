@@ -24,3 +24,5 @@ public class DateController extends HttpServlet {
         request.getRequestDispatcher("WEB-INF/jsp/date.jsp").forward(request,response);
     }
 }
+
+//sout
